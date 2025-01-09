@@ -11,7 +11,7 @@ def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
     return b
 
 '''
-Better solution by the website it self.
+Better solution by the website itself.
 '''
 
 def transpose_matrix(a: list[list[int|float]]) -> list[list[int|float]]:
